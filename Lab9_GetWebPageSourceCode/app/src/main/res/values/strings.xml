@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab9_GetWebPageSourceCode</string>
+
+    <string-array name="spinner_item">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
